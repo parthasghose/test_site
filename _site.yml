@@ -1,7 +1,7 @@
 name: "test-website"
 output_dir: "."
 navbar:
-  title: "Test Website"
+  title: "Partha S. Ghose"
   type: inverse
   left:
     - text: "Home"
