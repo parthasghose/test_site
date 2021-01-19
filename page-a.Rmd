@@ -1,5 +1,5 @@
 ---
-title: "page-a"
+title: "Page A"
 ---
 
 This Page A.

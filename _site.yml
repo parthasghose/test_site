@@ -10,3 +10,12 @@ navbar:
     - text: "About me"
       icon: fa-info
       href: about.html
+    - text: "More"
+      icon: fa-gear
+      menu:
+        - text: "Heading 1"
+        - text: "Page A"
+          href: page-a.html
+        - text: "Heading 1"
+        - text: "Page B"
+          href: page-b.html
