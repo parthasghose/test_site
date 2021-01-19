@@ -3,7 +3,7 @@ title: "Test Website"
 output: 
   html_document:
     toc: true
-    toc_float: true
+    toc_float: false
 ---
 # Heading for the first part
 ```{r, echo=TRUE}
