@@ -2,7 +2,7 @@ name: "test-website"
 output_dir: "."
 navbar:
   title: "Partha S. Ghose"
-  type: inverse
+  
   left:
     - text: "Home"
       icon: fa-home
@@ -22,3 +22,7 @@ navbar:
           menu:
             - text: "Page C"
               href: page-c.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
