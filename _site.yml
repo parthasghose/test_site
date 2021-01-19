@@ -24,5 +24,5 @@ navbar:
               href: page-c.html
 output:
   html_document:
-    theme: flatly
+    theme: cerulean
     css: style.css
