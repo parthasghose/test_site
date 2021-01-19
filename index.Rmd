@@ -5,4 +5,9 @@ output:
     toc: true
     toc_float: true
 ---
-Hello, World!
+# Heading for the first part
+```{r, echo=TRUE}
+library(ggplot2)
+
+head(diamonds)
+```
